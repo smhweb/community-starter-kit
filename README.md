@@ -10,6 +10,7 @@ A GitHub App built with probot that celebrates new user activity within your rep
 
 1. [Install the bot](https://github.com/apps/welcome) on the intended repositories. The plugin requires the following **Permissions and Events**:
 
+add-readme
 - Pull requests: Read & Write
 - Issues: Read & Write
 
@@ -53,3 +54,7 @@ If you need help using this app, we encourage you to:
 ## Project maintainers
 
 This project is maintained by Monalisa Octocat and friends. Use of this project under the [MIT License](LICENSE.md).
+
+I'll meet you over there, can't wait to get started!
+Read the above story.
+master
